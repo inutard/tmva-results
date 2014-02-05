@@ -1,0 +1,176 @@
+Best variables:
+================================================
+Significance: 0.302451
+Method Name: MLP
+variables used: [ Wlep_m ] [ dR_lb_had ] 
+================================================
+================================================
+Significance: 0.428911
+Method Name: MLP
+variables used: [ lep_pt ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 0.448609
+Method Name: MLP
+variables used: [ lep_pt ] [ Whad_phi ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.452275
+Method Name: MLP
+variables used: [ jet_n ] 
+================================================
+================================================
+Significance: 0.470256
+Method Name: MLP
+variables used: [ jet_n ] [ Whad_eta ] [ Whad_phi ] [ Whad_m ] [ dR_lb_had ] 
+================================================
+================================================
+Significance: 0.482854
+Method Name: MLP
+variables used: [ Wlep_pt ] [ Wlep_m ] 
+================================================
+================================================
+Significance: 0.601654
+Method Name: MLP
+variables used: [ mwt ] 
+================================================
+================================================
+Significance: 0.653239
+Method Name: MLP
+variables used: [ lep_eta ] [ Whad_pt ] [ Whad_eta ] [ Wlep_m ] [ b_lep_pt ] 
+================================================
+================================================
+Significance: 0.769962
+Method Name: MLP
+variables used: [ lep_phi ] [ Whad_m ] 
+================================================
+================================================
+Significance: 0.816792
+Method Name: MLP
+variables used: [ Whad_phi ] 
+================================================
+================================================
+Significance: 0.85935
+Method Name: MLP
+variables used: [ n_btags_70 ] [ Whad_eta ] 
+================================================
+================================================
+Significance: 0.884719
+Method Name: MLP
+variables used: [ lep_eta ] [ met_et ] [ jet_n ] [ Whad_pt ] [ Wlep_eta ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 0.915617
+Method Name: MLP
+variables used: [ Pt(b_had) ] [ lep_pt ] [ jet_n ] [ analysis_channel ] [ Whad_eta ] 
+================================================
+================================================
+Significance: 0.915997
+Method Name: MLP
+variables used: [ Pt(b_had) ] [ lep_pt ] [ Wlep_eta ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.974433
+Method Name: MLP
+variables used: [ lep_pt ] [ jet_m_max ] [ Whad_dR ] 
+================================================
+================================================
+Significance: 0.985009
+Method Name: MLP
+variables used: [ Pt(b_lep) ] [ jet_n ] [ Wlep_m ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.992793
+Method Name: MLP
+variables used: [ lep_pt ] [ met_et ] [ n_btags_70 ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.00977
+Method Name: MLP
+variables used: [ Pt(b_had) ] [ dR_lb_lep ] 
+================================================
+================================================
+Significance: 1.0243
+Method Name: MLP
+variables used: [ lep_phi ] [ jet_n ] [ Wlep_m ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.05413
+Method Name: MLP
+variables used: [ Pt(b_lep) ] [ Wlep_eta ] [ dR_lnu ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.09181
+Method Name: MLP
+variables used: [ jet_m_max ] [ tprime_had_pt ] [ dR_lnu ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.11362
+Method Name: MLP
+variables used: [ Pt(b_had) ] [ lep_phi ] [ met_et ] [ Wlep_phi ] [ Wlep_m ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 1.12359
+Method Name: MLP
+variables used: [ jet_m_max ] [ Whad_eta ] [ Whad_m ] 
+================================================
+================================================
+Significance: 1.14608
+Method Name: MLP
+variables used: [ met_phi ] [ analysis_channel ] [ b_had_pt ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.16418
+Method Name: MLP
+variables used: [ lep_eta ] [ lep_phi ] [ n_btags_70 ] [ analysis_channel ] [ Whad_m ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.16452
+Method Name: MLP
+variables used: [ Ht ] [ jet_n ] [ tprime_had_pt ] 
+================================================
+================================================
+Significance: 1.17112
+Method Name: MLP
+variables used: [ Pt(b_had) ] [ lep_eta ] [ met_et ] [ Whad_phi ] [ dR_lb_lep ] 
+================================================
+================================================
+Significance: 1.18002
+Method Name: MLP
+variables used: [ Ht ] [ Wlep_phi ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.23327
+Method Name: MLP
+variables used: [ Wlep_m ] [ b_had_pt ] [ tprime_had_pt ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.32552
+Method Name: MLP
+variables used: [ Ht ] [ jet_n ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.33329
+Method Name: MLP
+variables used: [ met_et ] [ Whad_eta ] [ Wlep_pt ] [ Wlep_phi ] [ tprime_had_pt ] [ dR_lb1 ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.3382
+Method Name: MLP
+variables used: [ Ht ] [ mwt ] [ Whad_eta ] [ Wlep_m ] [ dR_lb_lep ] 
+================================================
+================================================
+Significance: 1.36455
+Method Name: MLP
+variables used: [ Ht ] [ Pt(b_had) ] [ mwt ] [ Whad_m ] [ tprime_had_pt ] 
+================================================
+================================================
+Significance: 1.36676
+Method Name: MLP
+variables used: [ b_had_pt ] [ tprime_lep_pt ] [ tprime_had_pt ] [ dR_lb_lep ] [ dR_lb1 ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.42901
+Method Name: MLP
+variables used: [ Ht ] [ mwt ] [ Whad_pt ] [ Whad_phi ] [ dR_lb_lep ] 
+================================================
