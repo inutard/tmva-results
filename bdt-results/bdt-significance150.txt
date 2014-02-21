@@ -1,0 +1,301 @@
+Best variables:
+================================================
+Significance: 0.270838
+Method Name: BDTG
+variables used: [ analysis_channel ] [ Whad_dR ] [ Wlep_phi ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 0.315363
+Method Name: BDTG
+variables used: [ analysis_channel ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 0.378263
+Method Name: BDTG
+variables used: [ Whad_phi ] 
+================================================
+================================================
+Significance: 0.392466
+Method Name: BDTG
+variables used: [ met_phi ] [ Whad_eta ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.404032
+Method Name: BDTG
+variables used: [ met_phi ] [ n_btags_70 ] [ Wlep_phi ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 0.516787
+Method Name: BDTG
+variables used: [ Wlep_eta ] [ Wlep_m ] 
+================================================
+================================================
+Significance: 0.702112
+Method Name: BDTG
+variables used: 
+================================================
+================================================
+Significance: 0.70728
+Method Name: BDTG
+variables used: [ jet_n ] [ Wlep_eta ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 0.752855
+Method Name: BDTG
+variables used: [ lep_pt ] [ met_et ] [ mwt ] [ Wlep_phi ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.79151
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ n_btags_70 ] [ Whad_eta ] 
+================================================
+================================================
+Significance: 0.797015
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ Pt(b_lep) ] [ Wlep_eta ] [ Wlep_phi ] 
+================================================
+================================================
+Significance: 0.829468
+Method Name: BDTG
+variables used: [ lep_phi ] [ b_had_pt ] [ tprime_had_pt ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 0.831087
+Method Name: BDTG
+variables used: [ jet_n ] [ Whad_pt ] [ tprime_had_pt ] 
+================================================
+================================================
+Significance: 0.844907
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_phi ] [ Whad_m ] [ b_had_pt ] [ tprime_had_pt ] 
+================================================
+================================================
+Significance: 0.85055
+Method Name: BDTG
+variables used: [ dR_lb_lep ] 
+================================================
+================================================
+Significance: 0.872854
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ Whad_m ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 0.882714
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ jet_n ] [ analysis_channel ] [ Whad_eta ] [ Wlep_phi ] [ dR_lb_lep ] 
+================================================
+================================================
+Significance: 0.900717
+Method Name: BDTG
+variables used: [ met_et ] [ Wlep_m ] 
+================================================
+================================================
+Significance: 0.903866
+Method Name: BDTG
+variables used: [ lep_eta ] [ met_et ] [ mwt ] [ Whad_phi ] [ Whad_dR ] [ b_had_pt ] [ tprime_lep_pt ] [ tprime_had_pt ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 0.927687
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ met_phi ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 0.93674
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_eta ] [ Whad_m ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.979511
+Method Name: BDTG
+variables used: [ lep_pt ] [ lep_phi ] [ jet_n ] [ Whad_pt ] [ b_lep_pt ] 
+================================================
+================================================
+Significance: 0.998098
+Method Name: BDTG
+variables used: [ Whad_phi ] [ Whad_m ] [ Wlep_phi ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.00575
+Method Name: BDTG
+variables used: [ Ht ] [ met_et ] [ jet_n ] [ Wlep_eta ] [ b_had_pt ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 1.01267
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_eta ] [ met_phi ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.0323
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ lep_eta ] [ jet_n ] [ Whad_pt ] [ Whad_m ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.03556
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ analysis_channel ] [ Whad_dR ] [ Wlep_pt ] [ Wlep_phi ] [ dR_lb_lep ] 
+================================================
+================================================
+Significance: 1.08066
+Method Name: BDTG
+variables used: [ met_phi ] [ jet_n ] [ n_btags_70 ] [ dR_lnu ] [ dR_lb2 ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.09058
+Method Name: BDTG
+variables used: [ Ht ] [ Pt(b_had) ] [ Pt(b_lep) ] [ met_phi ] [ Wlep_phi ] [ Wlep_m ] [ b_had_pt ] [ dR_lnu ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.09427
+Method Name: BDTG
+variables used: [ Ht ] [ lep_eta ] [ jet_n ] [ jet_m_max ] [ mwt ] [ Whad_phi ] [ Whad_m ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 1.11319
+Method Name: BDTG
+variables used: [ Ht ] [ lep_eta ] [ n_btags_70 ] [ Wlep_pt ] 
+================================================
+================================================
+Significance: 1.1187
+Method Name: BDTG
+variables used: [ met_phi ] [ Wlep_pt ] [ Wlep_eta ] [ b_had_pt ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.12861
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ jet_n ] [ analysis_channel ] [ Whad_m ] [ b_lep_pt ] [ dR_lb_had ] 
+================================================
+================================================
+Significance: 1.13152
+Method Name: BDTG
+variables used: [ lep_phi ] [ mwt ] [ Whad_m ] [ Whad_dR ] [ Wlep_pt ] [ Wlep_eta ] [ Wlep_m ] [ dR_lnu ] [ dR_lb1 ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.13266
+Method Name: BDTG
+variables used: [ Ht ] [ jet_n ] [ jet_m_max ] [ mwt ] [ tprime_had_pt ] [ dR_lnu ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.14257
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ lep_phi ] [ met_phi ] [ jet_m_max ] [ Wlep_pt ] [ Wlep_eta ] [ tprime_had_pt ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.14298
+Method Name: BDTG
+variables used: [ Ht ] [ met_phi ] [ Whad_phi ] [ Whad_m ] [ Wlep_pt ] [ b_lep_pt ] [ tprime_lep_pt ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.15375
+Method Name: BDTG
+variables used: [ Ht ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.16536
+Method Name: BDTG
+variables used: [ Ht ] [ lep_phi ] [ jet_m_max ] [ dR_lb1 ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.18555
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ jet_m_max ] [ Whad_pt ] [ Whad_phi ] [ Whad_dR ] [ Wlep_pt ] [ Wlep_phi ] [ dR_lb_lep ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.20492
+Method Name: BDTG
+variables used: [ Whad_m ] [ dR_lnu ] [ dR_lb_lep ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.22293
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_pt ] [ lep_eta ] [ lep_phi ] [ met_phi ] [ jet_n ] [ mwt ] [ b_had_pt ] [ tprime_lep_pt ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 1.24754
+Method Name: BDTG
+variables used: [ Ht ] [ jet_n ] [ jet_m_max ] [ mwt ] [ Whad_pt ] [ Wlep_pt ] [ b_lep_pt ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 1.24983
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ met_et ] [ mwt ] [ Whad_pt ] [ b_lep_pt ] [ dR_lb_lep ] [ dR_lb_had ] [ dR_lb1 ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.25921
+Method Name: BDTG
+variables used: [ Ht ] [ lep_phi ] [ met_phi ] [ jet_m_max ] [ n_btags_70 ] [ Whad_dR ] [ Wlep_eta ] [ Wlep_phi ] [ b_had_pt ] [ dR_lb_had ] 
+================================================
+================================================
+Significance: 1.26333
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ Whad_m ] [ Wlep_pt ] [ tprime_lep_pt ] [ dR_lb_lep ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.28778
+Method Name: BDTG
+variables used: [ Ht ] [ Pt(b_lep) ] [ tprime_had_pt ] [ dR_lb_had ] 
+================================================
+================================================
+Significance: 1.31758
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_eta ] [ analysis_channel ] [ Whad_eta ] [ Wlep_pt ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.33565
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ jet_n ] [ jet_m_max ] [ analysis_channel ] [ Whad_phi ] [ Wlep_eta ] [ b_lep_pt ] [ tprime_had_pt ] [ dR_lb_had ] 
+================================================
+================================================
+Significance: 1.34705
+Method Name: BDTG
+variables used: [ Ht ] [ Whad_pt ] [ Whad_m ] [ tprime_had_pt ] [ dR_lnu ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.35152
+Method Name: BDTG
+variables used: [ mwt ] [ Whad_m ] [ Wlep_pt ] [ tprime_lep_pt ] [ tprime_had_pt ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.37404
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_pt ] [ lep_phi ] [ jet_n ] [ b_lep_pt ] [ dR_lnu ] [ dR_lb_lep ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.38222
+Method Name: BDTG
+variables used: [ Ht ] [ met_phi ] [ n_btags_70 ] [ Whad_eta ] [ Wlep_phi ] [ Wlep_m ] [ dR_lb_had ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.38887
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ lep_eta ] [ jet_m_max ] [ Wlep_phi ] [ Wlep_m ] [ b_lep_pt ] [ tprime_lep_pt ] [ dR_lnu ] [ dR_lb1 ] 
+================================================
+================================================
+Significance: 1.40257
+Method Name: BDTG
+variables used: [ Ht ] [ Pt(b_had) ] [ Pt(b_lep) ] [ met_et ] [ jet_n ] [ jet_m_max ] [ analysis_channel ] [ mwt ] [ tprime_lep_pt ] [ dR_lb_lep ] [ dR_lb2 ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.41588
+Method Name: BDTG
+variables used: [ Ht ] [ Pt(b_had) ] [ met_phi ] [ jet_m_max ] [ mwt ] [ Whad_phi ] [ Whad_dR ] [ b_lep_pt ] [ b_had_pt ] [ tprime_lep_pt ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.42716
+Method Name: BDTG
+variables used: [ Pt(b_lep) ] [ lep_pt ] [ Whad_m ] [ Whad_dR ] [ Wlep_pt ] [ Wlep_m ] [ b_had_pt ] [ dR_lb_lep ] [ dR_lb2 ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.4319
+Method Name: BDTG
+variables used: [ Ht ] [ Pt(b_lep) ] [ analysis_channel ] [ Wlep_pt ] [ dR_lb_had ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.45408
+Method Name: BDTG
+variables used: [ Ht ] [ Pt(b_had) ] [ mwt ] [ Wlep_pt ] [ tprime_had_pt ] [ dR_lb2 ] 
+================================================
+================================================
+Significance: 1.4653
+Method Name: BDTG
+variables used: [ Pt(b_had) ] [ lep_pt ] [ met_et ] [ jet_n ] [ Whad_pt ] [ Whad_m ] [ Wlep_phi ] [ b_lep_pt ] [ dR_Wlep_blep ] 
+================================================
