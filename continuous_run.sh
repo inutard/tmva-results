@@ -9,7 +9,7 @@ cd $TMVA_DIR
 while true; do
 	bdt_file=$RESULT_DIR/bdt-results/bdt-significance"$bdt_trial".txt
 	mlp_file=$RESULT_DIR/mlp-results/mlp-significance"$mlp_trial".txt
-	root -l -b -q "TMVAClassification.C(2)" > $bdt_file && root -l -b -q "TMVAClassification.C(1)" > $mlp_file
+	./TMVAClassificationCpp 2 > $bdt_file && ./TMVAClassificationCpp 1 > $mlp_file
 	sleep 10
 
 	tail -n+3 $bdt_file > tmp.txt && mv tmp.txt $bdt_file

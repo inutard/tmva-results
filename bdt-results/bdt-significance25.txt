@@ -1,2 +1,0 @@
---- <FATAL> Reader                   : Check calling string
-***> abort program execution

@@ -1,2 +1,249 @@
---- <FATAL> Reader                   : Check calling string
-***> abort program execution
+Significance: 0.652163
+Method Name: BDT
+variables used: [ dR_lb_lep ] [ dR_lb2 ] [ dR_Whad_blep ] [ dR_Whad_bhad ] 
+================================================
+================================================
+Significance: 0.793175
+Method Name: BDT
+variables used: [ lep_eta ] [ met_et ] [ met_phi ] [ Whad_eta ] [ dR_lb_had ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 0.886948
+Method Name: BDT
+variables used: [ Whad_pt ] [ Whad_eta ] [ Wlep_eta ] [ dR_Whad_b1 ] [ mindR_Whad_b ] 
+================================================
+================================================
+Significance: 0.940187
+Method Name: BDT
+variables used: [ lep_phi ] [ jet_m_max ] [ Whad_eta ] [ Whad_dR ] [ dR_lnu ] 
+================================================
+================================================
+Significance: 0.964532
+Method Name: BDT
+variables used: [ lep_phi ] [ jet_m_max ] [ mwt ] [ Whad_eta ] [ dR_Whad_b1 ] [ dR_Whad_b2 ] [ mindR_jj ] 
+================================================
+================================================
+Significance: 1.06282
+Method Name: BDT
+variables used: [ Wlep_eta ] [ Wlep_phi ] [ b_lep_pt ] [ tprime_lep_pt ] 
+================================================
+================================================
+Significance: 1.20977
+Method Name: BDT
+variables used: [ lep_pt ] [ Whad_phi ] [ Wlep_eta ] [ tprime_had_pt ] [ mindR_lb ] 
+================================================
+================================================
+Significance: 1.24293
+Method Name: BDT
+variables used: [ Whad_pt ] [ Whad_eta ] [ b_lep_pt ] [ mindR_lj ] 
+================================================
+================================================
+Significance: 1.30762
+Method Name: BDT
+variables used: [ lep_eta ] [ lep_phi ] [ Whad_pt ] [ Whad_m ] [ Wlep_eta ] [ dR_lnu ] [ dR_lb_had ] [ dR_lb1 ] [ dR_Whad_blep ] 
+================================================
+================================================
+Significance: 1.40267
+Method Name: BDT
+variables used: [ lep_eta ] [ met_et ] [ jet_m_max ] [ tprime_lep_pt ] [ dR_lb2 ] [ dR_Wlep_blep ] 
+================================================
+================================================
+Significance: 1.47619
+Method Name: BDT
+variables used: [ lep_phi ] [ met_et ] [ met_phi ] [ Whad_pt ] [ Wlep_pt ] [ dR_Wlep_blep ] [ dR_Whad_bhad ] [ mindR_jj ] 
+================================================
+================================================
+Significance: 1.53458
+Method Name: BDT
+variables used: [ lep_phi ] [ mwt ] [ Whad_eta ] [ Whad_dR ] [ dR_lnu ] [ dR_lb2 ] [ dR_Whad_bhad ] [ mindR_Whad_b ] 
+================================================
+================================================
+Significance: 1.54172
+Method Name: BDT
+variables used: [ met_et ] [ Wlep_m ] [ tprime_lep_pt ] [ tprime_had_pt ] [ mindR_lj ] [ Mjj_hpt ] 
+================================================
+================================================
+Significance: 1.54871
+Method Name: BDT
+variables used: [ lep_phi ] [ b_lep_pt ] [ dR_lb_had ] [ dR_lb1 ] [ dR_lb2 ] [ dR_Wlep_blep ] [ dR_Whad_bhad ] 
+================================================
+================================================
+Significance: 1.59788
+Method Name: BDT
+variables used: [ mwt ] [ Whad_pt ] [ b_lep_pt ] [ dR_Wlep_blep ] [ Mjj_hpt ] 
+================================================
+================================================
+Significance: 1.62873
+Method Name: BDT
+variables used: [ met_phi ] [ jet_m_max ] [ Whad_m ] [ Wlep_pt ] [ dR_lb1 ] [ dR_Whad_b2 ] [ mindR_lb ] 
+================================================
+================================================
+Significance: 1.67374
+Method Name: BDT
+variables used: [ Wlep_pt ] [ Wlep_eta ] [ dR_lnu ] [ dR_lb_lep ] [ dR_lb2 ] [ dR_Whad_blep ] [ dR_Whad_bhad ] [ dR_Whad_b1 ] [ mindR_lb ] 
+================================================
+================================================
+Significance: 1.70304
+Method Name: BDT
+variables used: [ lep_pt ] [ lep_eta ] [ met_phi ] [ Whad_eta ] [ Whad_phi ] [ Wlep_phi ] [ dR_lb_lep ] [ dR_lb_had ] [ dR_Whad_bhad ] [ dR_Whad_b2 ] [ mindR_jj ] [ mindR_lj ] 
+================================================
+================================================
+Significance: 1.70777
+Method Name: BDT
+variables used: [ lep_eta ] [ Whad_phi ] [ Wlep_m ] [ m_reco ] 
+================================================
+================================================
+Significance: 1.76717
+Method Name: BDT
+variables used: [ met_et ] [ jet_m_max ] [ Whad_pt ] [ Whad_dR ] [ tprime_had_pt ] [ dR_lb_lep ] [ dR_lb1 ] [ dR_Whad_b1 ] 
+================================================
+================================================
+Significance: 1.7824
+Method Name: BDT
+variables used: [ met_et ] [ met_phi ] [ jet_m_max ] [ Whad_dR ] [ Wlep_pt ] [ Wlep_eta ] [ dR_lb_had ] [ dR_Whad_bhad ] [ dR_Whad_b2 ] [ mindR_lb ] 
+================================================
+================================================
+Significance: 1.80543
+Method Name: BDT
+variables used: [ lep_pt ] [ met_et ] [ met_phi ] [ Whad_dR ] [ Wlep_eta ] [ Wlep_phi ] [ Wlep_m ] [ dR_lb_lep ] [ dR_lb1 ] [ dR_lb2 ] [ dR_Whad_blep ] [ dR_Whad_b1 ] 
+================================================
+================================================
+Significance: 1.82587
+Method Name: BDT
+variables used: [ lep_pt ] [ Whad_dR ] [ Wlep_phi ] [ tprime_had_pt ] [ dR_lb_had ] [ dR_lb2 ] [ dR_Whad_b2 ] [ mindR_Whad_b ] [ mindR_lj ] 
+================================================
+================================================
+Significance: 1.85825
+Method Name: BDT
+variables used: [ lep_pt ] [ lep_phi ] [ met_et ] [ Wlep_pt ] [ Wlep_eta ] [ Wlep_m ] [ tprime_had_pt ] [ dR_lnu ] [ dR_Whad_blep ] [ dR_Whad_bhad ] [ Mjj_hpt ] 
+================================================
+================================================
+Significance: 1.88983
+Method Name: BDT
+variables used: [ lep_pt ] [ Wlep_phi ] [ tprime_had_pt ] [ Ht ] 
+================================================
+================================================
+Significance: 1.90479
+Method Name: BDT
+variables used: [ lep_pt ] [ lep_eta ] [ met_et ] [ mwt ] [ Whad_pt ] [ Whad_eta ] [ Wlep_pt ] [ Wlep_m ] [ dR_lnu ] [ dR_lb1 ] [ dR_Whad_b2 ] [ mindR_Whad_b ] [ mindR_lb ] 
+================================================
+================================================
+Significance: 1.95101
+Method Name: BDT
+variables used: [ lep_eta ] [ met_phi ] [ Whad_phi ] [ Wlep_eta ] [ Wlep_phi ] [ tprime_had_pt ] [ dR_lb_lep ] [ dR_Whad_b2 ] [ mindR_Whad_b ] [ mindR_jj ] [ mindR_lj ] [ Mjj_hpt ] 
+================================================
+================================================
+Significance: 2.05179
+Method Name: BDT
+variables used: [ jet_m_max ] [ mwt ] [ Whad_phi ] [ Wlep_pt ] [ tprime_had_pt ] [ dR_lb_lep ] [ dR_lb1 ] [ dR_lb2 ] [ dR_Whad_b1 ] [ dR_Whad_b2 ] 
+================================================
+================================================
+Significance: 2.15046
+Method Name: BDT
+variables used: [ lep_eta ] [ lep_phi ] [ mwt ] [ Whad_phi ] [ Wlep_phi ] [ b_lep_pt ] [ tprime_had_pt ] [ dR_lb_had ] [ dR_lb2 ] [ dR_Wlep_blep ] [ dR_Whad_blep ] 
+================================================
+================================================
+Significance: 2.21781
+Method Name: BDT
+variables used: [ jet_m_max ] [ tprime_had_pt ] [ dR_lnu ] [ dR_lb1 ] [ mindR_jj ] [ Ht ] 
+================================================
+================================================
+Significance: 2.28292
+Method Name: BDT
+variables used: [ lep_phi ] [ met_phi ] [ b_lep_pt ] [ tprime_lep_pt ] [ dR_Whad_blep ] [ mindR_Whad_b ] [ mindR_lb ] [ mindR_jj ] 
+================================================
+================================================
+Significance: 2.28783
+Method Name: BDT
+variables used: [ jet_m_max ] [ Whad_m ] [ Whad_dR ] [ Wlep_eta ] [ tprime_lep_pt ] [ dR_lb_lep ] [ mindR_lb ] [ Ht ] 
+================================================
+================================================
+Significance: 2.39017
+Method Name: BDT
+variables used: [ met_phi ] [ Whad_dR ] [ b_had_pt ] [ dR_lb_had ] [ mindR_lb ] [ Ht ] 
+================================================
+================================================
+Significance: 2.42642
+Method Name: BDT
+variables used: [ lep_pt ] [ lep_eta ] [ jet_m_max ] [ Whad_eta ] [ Whad_phi ] [ Wlep_eta ] [ Wlep_phi ] [ Wlep_m ] [ b_had_pt ] [ tprime_lep_pt ] [ dR_Whad_bhad ] [ dR_Whad_b1 ] [ mindR_Whad_b ] 
+================================================
+================================================
+Significance: 2.47575
+Method Name: BDT
+variables used: [ Whad_pt ] [ Whad_eta ] [ b_had_pt ] [ tprime_had_pt ] [ dR_lb_had ] [ mindR_jj ] [ m_reco ] 
+================================================
+================================================
+Significance: 2.53447
+Method Name: BDT
+variables used: [ met_phi ] [ jet_m_max ] [ mwt ] [ Whad_phi ] [ dR_lnu ] [ dR_lb_had ] [ dR_lb2 ] [ dR_Wlep_blep ] [ dR_Whad_b2 ] [ mindR_jj ] [ Ht ] 
+================================================
+================================================
+Significance: 2.54683
+Method Name: BDT
+variables used: [ lep_phi ] [ met_et ] [ Wlep_eta ] [ Wlep_phi ] [ dR_lnu ] [ dR_lb2 ] [ mindR_Whad_b ] [ mindR_lb ] [ mindR_jj ] [ Mjj_hpt ] [ Ht ] 
+================================================
+================================================
+Significance: 2.56202
+Method Name: BDT
+variables used: [ lep_pt ] [ met_et ] [ met_phi ] [ jet_m_max ] [ Whad_m ] [ Wlep_pt ] [ Wlep_phi ] [ dR_lb_lep ] [ dR_lb_had ] [ mindR_jj ] [ mindR_lj ] [ Ht ] 
+================================================
+================================================
+Significance: 2.58021
+Method Name: BDT
+variables used: [ Wlep_m ] [ dR_Wlep_blep ] [ dR_Whad_blep ] [ Ht ] [ m_reco ] 
+================================================
+================================================
+Significance: 2.68065
+Method Name: BDT
+variables used: [ met_phi ] [ mwt ] [ Whad_pt ] [ Wlep_m ] [ b_had_pt ] [ tprime_lep_pt ] [ dR_lnu ] [ dR_lb_lep ] [ dR_Whad_blep ] [ mindR_lj ] 
+================================================
+================================================
+Significance: 2.68528
+Method Name: BDT
+variables used: [ lep_pt ] [ met_phi ] [ jet_m_max ] [ Whad_pt ] [ Whad_eta ] [ dR_lb_lep ] [ dR_lb_had ] [ dR_Whad_blep ] [ dR_Whad_bhad ] [ mindR_Whad_b ] [ Ht ] 
+================================================
+================================================
+Significance: 2.80708
+Method Name: BDT
+variables used: [ lep_phi ] [ jet_m_max ] [ Whad_eta ] [ Wlep_m ] [ dR_lnu ] [ dR_lb_had ] [ dR_Wlep_blep ] [ dR_Whad_blep ] [ mindR_jj ] [ m_reco ] 
+================================================
+================================================
+Significance: 2.81454
+Method Name: BDT
+variables used: [ lep_pt ] [ lep_eta ] [ mwt ] [ Whad_m ] [ Wlep_phi ] [ Wlep_m ] [ b_had_pt ] [ tprime_lep_pt ] [ dR_Wlep_blep ] [ dR_Whad_bhad ] [ mindR_lb ] [ mindR_jj ] [ Mjj_hpt ] 
+================================================
+================================================
+Significance: 2.83194
+Method Name: BDT
+variables used: [ met_et ] [ jet_m_max ] [ Whad_phi ] [ Wlep_pt ] [ b_had_pt ] [ tprime_had_pt ] [ dR_lnu ] [ dR_lb1 ] [ dR_lb2 ] [ dR_Wlep_blep ] [ dR_Whad_bhad ] [ dR_Whad_b1 ] [ mindR_lb ] 
+================================================
+================================================
+Significance: 2.84313
+Method Name: BDT
+variables used: [ met_phi ] [ Whad_pt ] [ Whad_dR ] [ b_had_pt ] [ tprime_lep_pt ] [ dR_Wlep_blep ] [ dR_Whad_blep ] [ dR_Whad_b2 ] [ mindR_Whad_b ] [ mindR_jj ] [ Mjj_hpt ] [ m_reco ] 
+================================================
+================================================
+Significance: 2.86868
+Method Name: BDT
+variables used: [ lep_pt ] [ lep_phi ] [ met_phi ] [ jet_m_max ] [ mwt ] [ Whad_eta ] [ Whad_phi ] [ b_lep_pt ] [ tprime_lep_pt ] [ tprime_had_pt ] [ dR_lb_had ] [ Mjj_hpt ] [ m_reco ] 
+================================================
+================================================
+Significance: 2.9124
+Method Name: BDT
+variables used: [ lep_pt ] [ Whad_dR ] [ Wlep_m ] [ b_lep_pt ] [ dR_lb_lep ] [ dR_lb1 ] [ dR_Whad_b1 ] [ Mjj_hpt ] [ m_reco ] 
+================================================
+================================================
+Significance: 2.91801
+Method Name: BDT
+variables used: [ met_phi ] [ b_lep_pt ] [ b_had_pt ] [ dR_lnu ] [ dR_lb1 ] [ dR_lb2 ] [ dR_Whad_bhad ] 
+================================================
+================================================
+Significance: 2.97631
+Method Name: BDT
+variables used: [ met_et ] [ Whad_m ] [ tprime_lep_pt ] [ dR_lb_lep ] [ dR_lb_had ] [ dR_lb1 ] [ dR_Whad_b1 ] [ Ht ] [ m_reco ] 
+================================================
+================================================
+Significance: 3.09032
+Method Name: BDT
+variables used: [ lep_pt ] [ b_lep_pt ] [ tprime_had_pt ] [ dR_lnu ] [ dR_lb2 ] [ dR_Whad_bhad ] [ dR_Whad_b1 ] [ mindR_Whad_b ] [ mindR_lb ] [ m_reco ] 
+================================================
